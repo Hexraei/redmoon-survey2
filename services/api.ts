@@ -1,5 +1,5 @@
 // IMPORTANT: Replace this with the actual Web app URL you got from deploying your Google Apps Script.
-const SCRIPT_URL = 'https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID_HERE/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxOMb5RBmIJuvqRvhzgErl9RtTPsJkzucw_WG1xOETx1euiHoHjI7t-dZT2osfOh1YC5Q/exec';
 
 /**
  * Sends data to the Google Apps Script backend.
