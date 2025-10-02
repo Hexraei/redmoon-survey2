@@ -9,7 +9,7 @@ const PreferencesIntro: React.FC<PreferencesIntroProps> = ({ onNext }) => {
     return (
         <div className="flex flex-col justify-start min-h-screen p-8 text-left bg-white relative">
             <div className="mb-12">
-                <img src="https://z-cdn-media.chatglm.cn/files/32b2902d-bf5d-4c68-b449-a7a6d0e1daea_logo.png?auth_key=1790941401-c2d6c7592c84439ab379a370893005ab-0-09a6f86fb006cc12454c1e8ae7b5f85f" 
+                <img src="./images/logo/redmoon_logo.png" 
                      alt="REDMOON" 
                      className="w-48 h-24 md:w-64 md:h-32 object-contain" />
             </div>

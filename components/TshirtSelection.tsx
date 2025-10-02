@@ -40,7 +40,7 @@ const TshirtSelection: React.FC<TshirtSelectionProps> = ({ selectedTShirts, setS
         <div className="container mx-auto px-4 sm:px-8 py-8 bg-white min-h-screen">
             <div className="mb-4 text-center">
                 <div className="mb-0">
-                    <img src="https://z-cdn-media.chatglm.cn/files/32b2902d-bf5d-4c68-b449-a7a6d0e1daea_logo.png?auth_key=1790941401-c2d6c7592c84439ab379a370893005ab-0-09a6f86fb006cc12454c1e8ae7b5f85f" 
+                    <img src="./images/logo/redmoon_logo.png" 
                          alt="REDMOON" 
                          className="w-48 h-24 md:w-64 md:h-32 object-contain mx-auto" />
                 </div>

@@ -2,21 +2,21 @@
 import type { TshirtDesign, Question } from './types';
 
 export const TSHIRT_DESIGNS: TshirtDesign[] = [
-    { id: '1', designName: 'Classic Black Moon', frontImage: 'https://picsum.photos/seed/1/400/500' },
-    { id: '2', designName: 'White Moon Phase', frontImage: 'https://picsum.photos/seed/2/400/500' },
-    { id: '3', designName: 'Gray Abstract Moon', frontImage: 'https://picsum.photos/seed/3/400/500' },
-    { id: '4', designName: 'Navy Crescent', frontImage: 'https://picsum.photos/seed/4/400/500' },
-    { id: '5', designName: 'Beige Minimal', frontImage: 'https://picsum.photos/seed/5/400/500' },
-    { id: '6', designName: 'Midnight Eclipse', frontImage: 'https://picsum.photos/seed/6/400/500' },
-    { id: '7', designName: 'Lunar Wave', frontImage: 'https://picsum.photos/seed/7/400/500' },
-    { id: '8', designName: 'Cosmic Dust', frontImage: 'https://picsum.photos/seed/8/400/500' },
-    { id: '9', designName: 'Solar Flare', frontImage: 'https://picsum.photos/seed/9/400/500' },
-    { id: '10', designName: 'Stellar Night', frontImage: 'https://picsum.photos/seed/10/400/500' },
-    { id: '11', designName: 'Aurora Glow', frontImage: 'https://picsum.photos/seed/11/400/500' },
-    { id: '12', designName: 'Twilight Shadow', frontImage: 'https://picsum.photos/seed/12/400/500' },
-    { id: '13', designName: 'Dawn Breaker', frontImage: 'https://picsum.photos/seed/13/400/500' },
-    { id: '14', designName: 'Dusk Horizon', frontImage: 'https://picsum.photos/seed/14/400/500' },
-    { id: '15', designName: 'Moonlight Sonata', frontImage: 'https://picsum.photos/seed/15/400/500' }
+    { id: '1', designName: 'Classic Black Moon', frontImage: './images/tshirts/tshirt1.png' },
+    { id: '2', designName: 'White Moon Phase', frontImage: './images/tshirts/tshirt2.png' },
+    { id: '3', designName: 'Gray Abstract Moon', frontImage: './images/tshirts/tshirt3.png' },
+    { id: '4', designName: 'Navy Crescent', frontImage: './images/tshirts/tshirt4.png' },
+    { id: '5', designName: 'Beige Minimal', frontImage: './images/tshirts/tshirt5.png' },
+    { id: '6', designName: 'Midnight Eclipse', frontImage: './images/tshirts/tshirt6.png' },
+    { id: '7', designName: 'Lunar Wave', frontImage: './images/tshirts/tshirt7.png' },
+    { id: '8', designName: 'Cosmic Dust', frontImage: './images/tshirts/tshirt8.png' },
+    { id: '9', designName: 'Solar Flare', frontImage: './images/tshirts/tshirt9.png' },
+    { id: '10', designName: 'Stellar Night', frontImage: './images/tshirts/tshirt10.png' },
+    { id: '11', designName: 'Aurora Glow', frontImage: './images/tshirts/tshirt11.png' },
+    { id: '12', designName: 'Twilight Shadow', frontImage: './images/tshirts/tshirt12.png' },
+    { id: '13', designName: 'Dawn Breaker', frontImage: './images/tshirts/tshirt13.png' },
+    { id: '14', designName: 'Dusk Horizon', frontImage: './images/tshirts/tshirt14.png' },
+    { id: '15', designName: 'Moonlight Sonata', frontImage: './images/tshirts/tshirt15.png' }
 ];
 
 export const QUESTIONS: Question[] = [
